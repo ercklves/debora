@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Débora</title>
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #8B008B; /* Rosa escuro */
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+
+        h1 {
+            font-size: 4rem;
+        }
+    </style>
+</head>
+<body>
+    <h1>Débora</h1>
+</body>
+</html>
